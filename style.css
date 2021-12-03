@@ -5,6 +5,11 @@ body {
 	background-color: whitesmoke;
 	font-family: 'Balsamiq Sans', cursive;
 	font-family: 'Kalam', cursive;
+	background-image: url("/images/profit_img.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 
 
 }
@@ -62,7 +67,7 @@ h1 {
 }
 
 .footer {
-	background-color: #163E4B;
+	background-color: #3F6876;
 	margin-bottom: 0px;
 	text-align: center;
 	padding: 0.5rem;
